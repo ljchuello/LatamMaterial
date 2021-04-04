@@ -1,5 +1,50 @@
 /* LJChuello */
 
+.padding5 {
+    padding: 5px;
+}
+
+.padding10 {
+    padding: 10px;
+}
+
+.padding15 {
+    padding: 15px;
+}
+
+.padding20 {
+    padding: 20px;
+}
+
+.padding25 {
+    padding: 25px;
+}
+
+.padding30 {
+    padding: 30px;
+}
+
+.padding35 {
+    padding: 35px;
+}
+
+.padding40 {
+    padding: 40px;
+}
+
+.padding45 {
+    padding: 45px;
+}
+
+.padding50 {
+    padding: 50px;
+}
+
+.responsive-img {
+    max-width: 100%;
+    height: auto;
+}
+
 .materialize-red {
     background-color: #e51c23 !important;
 }
