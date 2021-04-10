@@ -1,5 +1,17 @@
 /* LJChuello */
 
+.center-align {
+    text-align: center;
+}
+
+.right-align {
+    text-align: right;
+}
+
+.left-align {
+    text-align: left;
+}
+
 .padding5 {
     padding: 5px !important;
 }
